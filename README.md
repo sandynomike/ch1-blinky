@@ -1,4 +1,4 @@
-# Blue Pill Challeng 1: Blinky
+# Blue Pill Challenge 1: Blinky
 
 This project contains the code required to blink the built-in LED on the Blue Pill.
 
